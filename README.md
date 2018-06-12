@@ -1,0 +1,1 @@
+Exercise to reinforce lessons on reading from and writing information to a PostgreSQL database from a Sinatra application, as well as defining a database schema to store user-submitted articles. The GET and POST requests in the server.rb file read and write to the PostgreSQL database and the schema.sql defines the database schema. 
